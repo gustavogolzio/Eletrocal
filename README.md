@@ -35,7 +35,7 @@ Legal! Agora você já pode utilizar o Eletrocal sozinho!! Viu que a interface �
 
 ### Salvando e carregando arquivos
 
-Para que todos os seus dados não sejam jogados fora ao terminar de utilizar o Eletrocal, criamos a opção de Salvar e Carregar arquivos, os quais são em formato texto(.txt) ou separados por vígurla(.csv), veja como isto ficou tão simples.Salvando em 3,2,1...
+Para que todos os seus dados não sejam jogados fora ao terminar de utilizar o Eletrocal, criamos a opção de Salvar e Carregar arquivos, os quais são em formato texto(.txt) ou separados por vígurla(.csv), veja como isto ficou tão simples. Salvando em 3,2,1...
 
 ![Tela de inicio, salvando arquivos](imgs/salvar.png)
 

@@ -35,8 +35,7 @@ HEADERS += \
         mainwindow.h \
     equipamento.h \
     gastos.h \
-    gerenciadordearquivos.h \
-    conexao.h
+    gerenciadordearquivos.h
 
 FORMS += \
         mainwindow.ui

@@ -678,6 +678,16 @@ font-size: 16px;
    <property name="text">
     <string>Salvar</string>
    </property>
+   <property name="font">
+    <font>
+     <family>Monospac821 BT</family>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S, Ctrl+S, Ctrl+S</string>
+   </property>
   </action>
  </widget>
  <layoutdefault spacing="6" margin="11"/>

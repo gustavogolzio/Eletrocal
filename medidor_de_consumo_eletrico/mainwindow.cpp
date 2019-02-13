@@ -88,7 +88,7 @@ void MainWindow::on_btn_add_clicked()
 
 
     if(verificarEquipamento(equipamento) == false or qnt_produtos==0){
-    QMessageBox::warning(this, "ERRO", "disse que n tem");
+
         int qnt_row = ui->tbl_data->rowCount();
 
         ui->tbl_data->insertRow(qnt_row);

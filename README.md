@@ -3,11 +3,11 @@
 
 O Eletrocal permite ao usuário compreender o valor do pagamento mensal de energia elétrica de sua residência ou comércio, a potência total utilizada no mês, o maior valor gasto dos aparelhos e o menor valor gasto entre os aparelhos.
 
-![Tela Inicial do aplicativo Eletrocal](imgs/telainicio.PNG)
+![Tela Inicial do aplicativo Eletrocal](imgs/tela_inicio.PNG)
 
 Também, o aplicativo possui além da tela principal usada para o inserir os aparelhos elétricos, uma aba para observar as estatísticas e conhecer os gastos simultaneamente.
 
-!Tela Estatísticas do aplicativo Eletrocal](imgs/estatística.PNG)
+![Tela Estatísticas do aplicativo Eletrocal](imgs/estatística.PNG)
 
 # Manual do Usuário
 
@@ -16,6 +16,37 @@ Também, o aplicativo possui além da tela principal usada para o inserir os apa
 ### Primeiros Passos
 
 Como o app foi desenvolvido para qualquer pessoa utilizar, na sua tela padrão inicial está todos os dados solicitados para que possa ser calculado os gastos. Basta apenas colocar o nome do equipamento, a quantidade, a potência do aparelho em kW e as horas/dia usadas. Pronto, com isso você apenas clica no botão "Adicionar Equipamento" o qual já irá para a tabela.
+
+![Tela Inicial do aplicativo, inserindo item](imgs/antesdoclick.PNG)
+
+Pronto com os dados já setados, é necessário apenas clicar no botão para adicionar. O item será adicionado na tabela já com seu valor de gasto mensal calculado, além disso...
+
+![Tela inicial do aplicativo, apertando o botão](imgs/dpsdoclick.PNG)
+
+Na aba de estatísticas você observará o consumo total dos itens inseridos(vermelho), a potência total dos equipamentos adicionados(laranja), o maior gasto por aparelho(s)(verde), além do menor gasto(azul).
+
+![Tela de estatísticas do aplicativo, visualizando os dados](imgs/dadosestatistica.PNG)
+
+Tudo certo né? Caso você queira adicionar equipamentos com o mesmo nome, basta inserir seus dados e a quantidade a ser adicionada. Após clicar no botão de adicionar, uma mensagem aparecerá perguntando se deseja adicionar, para isso basta apenas selecionar o "Yes".
+
+![Tela inicial do aplicativo, adicionando itens presentes](imgs/itemjapresente.PNG)
+
+Legal! Agora você já pode utilizar o Eletrocal sozinho!! Viu que a interface é atrativa e facilmente utilizável? Pois é, foi ligeiramente pensado para atender a sua necessidade.
+
+### Salvando e carregando arquivos
+
+Para que todos os seus dados não sejam jogados fora ao terminar de utilizar o Eletrocal, criamos a opção de Salvar e Carregar arquivos, os quais são em formato texto(.txt) ou separados por vígurla(.csv), veja como isto ficou tão simples.Salvando em 3,2,1...
+
+![Tela de inicio, salvando arquivos](imgs/salvar.PNG)
+
+Carregando em 3,2,1...
+
+![Tela de inicio, carregando arquivos](imgs/carregar.PNG)
+
+Agora você está completamente apto para usar o aplicativo.
+
+### Menos gastos e mais prevenção! Bom uso do Eletrocal!
+
 
 
 

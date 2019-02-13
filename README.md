@@ -7,7 +7,7 @@ O Eletrocal permite ao usuário compreender o valor do pagamento mensal de energ
 
 Também, o aplicativo possui além da tela principal usada para o inserir os aparelhos elétricos, uma aba para observar as estatísticas e conhecer os gastos simultaneamente.
 
-![Tela Estatísticas do aplicativo Eletrocal](imgs/estatística.png)
+![Tela Estatísticas do aplicativo Eletrocal](imgs/estatísticas.png)
 
 # Manual do Usuário
 

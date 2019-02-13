@@ -29,7 +29,7 @@ Na aba de estatísticas você observará o valor total calculado dos itens inser
 
 Tudo certo né? Caso você queira adicionar equipamentos com o mesmo nome, basta inserir seus dados e a quantidade a ser adicionada. Após clicar no botão de adicionar, uma mensagem aparecerá perguntando se deseja adicionar, para isso basta apenas selecionar o "Yes".
 
-![Tela inicial do aplicativo, adicionando itens presentes](imgs/itemjapresente.png)
+![Tela inicial do aplicativo, adicionando itens presentes](imgs/addpresente.png)
 
 Legal! Agora você já pode utilizar o Eletrocal sozinho!! Viu que a interface é atrativa e facilmente utilizável? Pois é, foi ligeiramente pensado para atender a sua necessidade.
 

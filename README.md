@@ -1,6 +1,12 @@
 # Eletrocal
 ### Projeto executado para a Disciplina de Técnicas de Programação 2018.2. Aplicativo capaz de prevêr o gasto de energia elétrica residencial ou comercial mensal a partir da inserção dos aparelhos elétricos utilizados.
 
+Para usar o app basta ir na pasta **executavel** e logo após abrir o **medidor_de_consumo_eletrico.exe**.
+
+![pasta exe](imgs/pastaexe.png)
+
+![app exe](imgs/eletrocalexe.png)
+
 O Eletrocal permite ao usuário compreender o valor do pagamento mensal de energia elétrica de sua residência ou comércio, a potência total utilizada no mês, o maior valor gasto dos aparelhos e o menor valor gasto entre os aparelhos.
 
 ![Tela Inicial do aplicativo Eletrocal](imgs/tela_inicio.png)
